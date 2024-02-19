@@ -1,5 +1,3 @@
-// Student ID: 20437247
-
 #include <iostream>
 
 using namespace std;
