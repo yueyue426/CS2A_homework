@@ -1,5 +1,3 @@
-// Student ID: 20437247
-//
 // Looping_Functions.cpp
 //
 // Created by Anand Venkataraman on 8/9/2019.
