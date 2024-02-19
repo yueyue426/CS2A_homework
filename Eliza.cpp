@@ -1,4 +1,3 @@
-// Student ID: 20437247
 // Eliza.cpp
 // BLUE.Quest-05-Eliza
 //
