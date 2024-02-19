@@ -1,5 +1,3 @@
-// Student ID: 20437247
-//
 // Etox.cpp
 // Blue-Quest-01
 //
