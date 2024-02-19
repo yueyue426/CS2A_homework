@@ -1,5 +1,3 @@
-// Student ID: 20437247
-//
 // Limerick.cpp
 // BLUE-Quest-01
 //
