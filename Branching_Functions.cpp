@@ -1,5 +1,3 @@
-// Student ID: 20437247
-//
 // Branching-Functions.cpp
 // BLUE-Quest-03
 //
