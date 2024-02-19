@@ -1,5 +1,3 @@
-// Student ID: 20437247
-// 
 // Draw_Cat.cpp
 //
 // When this program is run it should print the following lines on the console:
